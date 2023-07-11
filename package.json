@@ -1,0 +1,16 @@
+{
+  "name": "this-is-weird-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-this-callbacks.js",
+  "scripts": {
+    "st1": "npx nodemon 1-this-callbacks.js",
+    "st2": "npx nodemon 2-gec-fec.js",
+    "st3": "npx nodemon 3-setting-this.js",
+    "st4": "npx nodemon 4-classes.js",
+    "st5": "npx nodemon 5-arrows.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
